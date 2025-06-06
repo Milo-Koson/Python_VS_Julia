@@ -48,5 +48,4 @@ reproduce your results
 ## Expected delivery:
 - All the python's models are located in the "Python" repository.
 - All the Julia's models are located in the "Julia" repository.
-- The final comparison document, the Excel summary file, the poster and our PowerPoint presentation
-are located in the "Deliverables" repository.
+- The final comparison document and the Excel summary file are located in the "Deliverables" repository. 
